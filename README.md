@@ -159,8 +159,7 @@ CHALLENGE_REPLY_FIAP_FASE2/
 
 ---
 
-## 🚀 Considerações finais
+## Considerações finais
 
-* Todas as etapas propostas foram contempladas com sucesso.
+* Como dito anteriormente, esse projeto segue a arquitetura inicial de sensores proposta na fase 1.
 * O projeto simula com fidelidade o fluxo de coleta e análise de dados baseado em sensores.
-* A estrutura permite expansão futura para dashboards, banco de dados e alertas em tempo real.
