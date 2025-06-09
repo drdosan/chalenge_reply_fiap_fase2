@@ -2,6 +2,10 @@
 
 **Sistema Inteligente de Análise Preditiva (SIAP) - Fase 2**
 
+Esse projeto segue a arquitetura que foi feita na Fase 1, presente no repositório:
+
+[https://github.com/drdosan/chalenge_reply_fiap](https://github.com/drdosan/chalenge_reply_fiap)
+
 ---
 
 ## 📅 Etapas do Projeto
@@ -74,7 +78,7 @@ http://192.168.0.151:5001/coletar
 ### Documentação via Swagger:
 
 ```
-http://http://192.168.0.151:5001/apidocs
+http://192.168.0.151:5001/apidocs
 ```
 
 #### Evidências de funcionamento da API:
