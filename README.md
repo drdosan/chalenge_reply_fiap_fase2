@@ -35,7 +35,7 @@ O projeto foi estruturado em três módulos principais:
 
 O circuito foi criado no **Wokwi** com ESP32 DevKit-C v4.
 
-![Funcionamento dos sensores](img/sensores.png)
+![Funcionamento dos sensores](img/circuito.png)
 
 ### Leitura dos dados na simulação:
 
